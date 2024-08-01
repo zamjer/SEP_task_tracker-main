@@ -20,13 +20,13 @@ DATABASE_PORT=3306
 
 ```
 ```
-python -m pip install virtualenv
+python3 -m pip install virtualenv
 ```
 ```
-virtualenv venv
+python3 -m  venv env
 ```
 ```
-venv/scripts/activate
+env/scripts/activate
 ```
 ```
 python -m pip install -r requirements.txt
