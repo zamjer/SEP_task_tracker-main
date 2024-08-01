@@ -3,7 +3,7 @@
 
 ## How To Setup
 ```
-git clone https://github.com/admingrey/studydownunder.git
+git clone https://github.com/zamjer/SEP_task_tracker-main.git
 ```
 ```
 cd studenttasktracker
