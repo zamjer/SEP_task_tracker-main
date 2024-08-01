@@ -23,7 +23,7 @@ DATABASE_PORT=3306
 python -m pip install virtualenv
 ```
 ```
-virtualenv venv
+python -m virtualenv venv
 ```
 ```
 venv/scripts/activate
