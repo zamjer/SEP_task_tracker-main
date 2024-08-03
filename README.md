@@ -23,7 +23,11 @@ DATABASE_PORT=3306
 python3 -m pip install virtualenv
 ```
 ```
+<<<<<<< task_tracker_Branch1
+python -m virtualenv venv
+=======
 python3 -m  venv env
+>>>>>>> main
 ```
 ```
 env/scripts/activate
