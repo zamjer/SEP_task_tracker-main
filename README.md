@@ -3,7 +3,7 @@
 
 ## How To Setup
 ```
-git clone https://github.com/admingrey/studydownunder.git
+git clone https://github.com/zamjer/SEP_task_tracker-main.git
 ```
 ```
 cd studenttasktracker
@@ -20,13 +20,17 @@ DATABASE_PORT=3306
 
 ```
 ```
-python -m pip install virtualenv
+python3 -m pip install virtualenv
 ```
 ```
+<<<<<<< task_tracker_Branch1
 python -m virtualenv venv
+=======
+python3 -m  venv env
+>>>>>>> main
 ```
 ```
-venv/scripts/activate
+env/scripts/activate
 ```
 ```
 python -m pip install -r requirements.txt
