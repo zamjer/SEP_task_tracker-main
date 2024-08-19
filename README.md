@@ -48,3 +48,5 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 "# SEP_task_tracker-main" 
+
+Trigering a new job using Jenskin
